@@ -1,7 +1,7 @@
-import GitLesson from "./components/GitLesson"
+import PmAudienceLesson from "./components/PmAudienceLesson"
 
 function App() {
-  return <GitLesson />
+  return <PmAudienceLesson />
 }
 
 export default App
